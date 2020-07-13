@@ -1,6 +1,6 @@
 {
   "name": "create-unique-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module to create a small, unique id on components or elements.",
   "main": "index.js",
   "scripts": {
