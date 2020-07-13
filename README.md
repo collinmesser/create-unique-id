@@ -2,7 +2,7 @@
 
 A small package to create a unique id.
 
-![npm](https://img.shields.io/npm/v/create-unique-id) [!install size](https://packagephobia.com/result?p=create-unique-id) ![npm](https://img.shields.io/npm/dm/create-unique-id)
+![npm](https://img.shields.io/npm/v/create-unique-id) [![install size](https://packagephobia.com/badge?p=create-unique-id)](https://packagephobia.com/result?p=create-unique-id) ![npm](https://img.shields.io/npm/dm/create-unique-id)
 
 ## Useage
 
