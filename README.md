@@ -22,3 +22,7 @@ console.log(`uid-${createUID(6)}`); // uid-feyz4s
 ## Issues & Ideas
 
 If you run into an issue or have an idea to make this better please don't hesitate to file and issue.
+
+## Maintainers
+
+- [Collin Messer](https://github.com/collinmesser)

@@ -2,6 +2,7 @@
   "name": "create-unique-id",
   "version": "1.0.1",
   "description": "A module to create a small, unique id on components or elements.",
+  "repository": "collinmesser/create-unique-id",
   "main": "index.js",
   "scripts": {
     "test": "test"
